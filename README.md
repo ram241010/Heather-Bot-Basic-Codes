@@ -1,4 +1,4 @@
-Your Need To Create .env file with below mentioned code 
+You Need To Create .env file with below mentioned code 
 
 TOKEN=YOUR_DISCORD_BOT_TOKEN
 CLIENT_ID=YOUR_BOT_CLIENT_ID
