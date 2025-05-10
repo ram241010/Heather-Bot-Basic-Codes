@@ -1,0 +1,5 @@
+Your Need To Create .env file with below mentioned code 
+
+TOKEN=YOUR_DISCORD_BOT_TOKEN
+CLIENT_ID=YOUR_BOT_CLIENT_ID
+GUILD_ID=YOUR_TEST_SERVER_ID
